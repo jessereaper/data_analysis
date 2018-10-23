@@ -1,4 +1,5 @@
 this is the read me
+i will take you step by step on what im doing
 we taking the data
 downloading it
 change it to a tsv
